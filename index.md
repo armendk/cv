@@ -2,7 +2,7 @@
 
 _Data Scientist (and sometimes a creator) based in Munich, Germany_ <br>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/armendkabashi/) / [GitHub](https://github.com/armendk/) / [DEV](https://dev.to/armendk/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/armendkabashi/) / [GitHub](https://github.com/armendk/) / [DEV](https://dev.to/armendk/)
 
 ## 👩🏼‍💻 Technical Experience
 
