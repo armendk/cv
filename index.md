@@ -23,4 +23,9 @@ A multilingual etymology dictionary that maps words to concepts and discovers cr
   - **_Technologies used:_** Python, PySpark, pandas, scikit-earn, NumPy, NetworkX, Spacy, MySQL, ElasticSearch, MongoDB, FastAPI, Docker, AWS (EC2, RDS, S3, Lambda), Vercel, Bootstrap, Javascript, Gitlab.
 <br><br>
 
+## Education
+
+**Master of Science in Computer Science** focused in AI and Machine Learning
+<img src="https://www.pikpng.com/pngl/m/597-5977915_sapienza-university-of-rome-logo-clipart.png" width="16"> [**Sapienza Università di Roma**](https://www.diag.uniroma1.it/) - Rome, Italy _(Nov 2012 - Jan 2015)_
+
 
