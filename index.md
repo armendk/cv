@@ -1,18 +1,18 @@
 # Armend Kabashi
 
 
-_Data Scientist (and sometimes a creator_ 🚀 _) based in wonderful Munich_ [🍺](https://en.wikipedia.org/wiki/Munich) [🇩🇪](https://en.wikipedia.org/wiki/Germany)<br>
+_Data Scientist (and sometimes a creator_ 🚀 _) based in wonderful Munich_ [🍺](https://en.wikipedia.org/wiki/Munich) _, Germany_ [🇩🇪](https://en.wikipedia.org/wiki/Germany)<br>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/armendkabashi/) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/armendk/) [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/armendk/)
 
 ## About me
-❤️‍🔥 Passionate Data Scientist with 5 years of experience in driving business growth utilising advanced data analysis and machine learning techniques. Competent in Machine Learning, ETL, Natural Language Processing, and Data Analysis. Strong engineering professional with a Master’s degree focused on AI and Machine Learning 🤖. A versatile, determined, and easy-going 😎 person who loves learning 😍📖🧠 and enjoys
+❤️‍🔥 Passionate Data Scientist with 5 years of experience in driving business growth utilising advanced data analysis and machine learning techniques. Competent in Machine Learning, ETL, Natural Language Processing, and Data Analysis. Strong engineering professional with a Master’s degree focused on AI and Machine Learning 🤖. A versatile, determined, and easy-going 👋 person who loves learning 📖🧠 and enjoys
 working with others 🥰. 
 
 ## Skills
-> **[Python](https://www.python.org/)**: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [Apache Spark](https://spark.apache.org/), [Gensim](https://radimrehurek.com/gensim/), [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), [Flask](https://flask.palletsprojects.com/en/1.1.x/), [FastAPI](https://fastapi.tiangolo.com/)
-> **SQL**: [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), **NoSQL**: [Elasticsearch](https://www.elastic.co/)
-> **Containers & Serverless**:  [Docker](https://www.docker.com/), [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), [Heroku](https://www.heroku.com/)
+> **[Python](https://www.python.org/)**: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [Apache Spark](https://spark.apache.org/), [Gensim](https://radimrehurek.com/gensim/), [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), [Flask](https://flask.palletsprojects.com/en/1.1.x/), [FastAPI](https://fastapi.tiangolo.com/) <br>
+> **SQL**: [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), **NoSQL**: [Elasticsearch](https://www.elastic.co/)<br>
+> **Containers & Serverless**:  [Docker](https://www.docker.com/), [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), [Heroku](https://www.heroku.com/)<br>
 > **Collaboration**: [Github](https://github.com/), [Gitlab](https://gitlab.com/), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence)
 
 ## 👨🏻‍💻 Technical Experience
@@ -33,5 +33,3 @@ A multilingual etymology dictionary 🌐 that maps words to concepts and discove
 <img src="https://www.pikpng.com/pngl/m/597-5977915_sapienza-university-of-rome-logo-clipart.png" width="16"> [Sapienza Università di Roma](https://www.diag.uniroma1.it/) - Rome, Italy _(Nov 2012 - Jan 2015)_
 
 **Bachelor of Science in Computer Science** @ University for Business and Technology - Prishtina, Kosovo _(Nov 2004 - Aug 2009)_
-
-
