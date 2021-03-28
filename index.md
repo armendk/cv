@@ -10,7 +10,7 @@ _Data Scientist (and sometimes a creator_ 🚀 _) based in wonderful Munich_ [�
 working with others 🥰. 
 
 ## Skills
-> **[Python](https://www.python.org/)**: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [Apache Spark](https://spark.apache.org/), [Gensim](https://radimrehurek.com/gensim/), [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), [Flask](https://flask.palletsprojects.com/en/1.1.x/), [FastAPI](https://fastapi.tiangolo.com/) <br>
+> **[Python](https://www.python.org/)**: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [Apache Spark](https://spark.apache.org/), [Gensim](https://radimrehurek.com/gensim/), [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), [NetworkX](https://networkx.org/), [Flask](https://flask.palletsprojects.com/en/1.1.x/), [FastAPI](https://fastapi.tiangolo.com/) <br>
 > **SQL**: [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), **NoSQL**: [Elasticsearch](https://www.elastic.co/)<br>
 > **Containers & Serverless**:  [Docker](https://www.docker.com/), [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), [Heroku](https://www.heroku.com/)<br>
 > **Collaboration**: [Github](https://github.com/), [Gitlab](https://gitlab.com/), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence)
@@ -24,7 +24,7 @@ A multilingual etymology dictionary 🌐 that maps words to concepts and discove
   - Utilised statistical analysis and graphs to achieve a mapping between words and primitive concepts
   - Developed an API to expose the search algorithm to external applications
   - Fashioned and built a simple web app to visualise the search results and enable users to interact with the data
-  - **_Tech stack:_** Python, PySpark, pandas, scikit-earn, NumPy, NetworkX, Spacy, MySQL, FastAPI, Docker, Vercel, Bootstrap, Javascript, Gitlab
+  - **_Tech stack:_** Python, Spark, pandas, scikit-earn, NumPy, NetworkX, spaCy, MySQL, FastAPI, Docker, Vercel, Bootstrap, Gitlab
 <br><br>
 
 ## 👨🏻‍🎓 Education
