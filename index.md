@@ -21,7 +21,7 @@ A multilingual etymology dictionary 🌐 that maps words to concepts and discove
   - Utilised statistical analysis and graphs to achieve a mapping between words and primitive concepts
   - Developed an API to expose the search algorithm to external applications
   - Fashioned and built a simple web app to visualise the search results and enable users to interact with the data
-  - **_Technologies used:_** Python, PySpark, pandas, scikit-earn, NumPy, NetworkX, Spacy, MySQL, ElasticSearch, MongoDB, FastAPI, Docker, AWS (EC2, RDS, S3, Lambda), Vercel, Bootstrap, Javascript, Gitlab.
+  - **_Technologies stack:_** Python, PySpark, pandas, scikit-earn, NumPy, NetworkX, Spacy, MySQL, FastAPI, Docker, Vercel, Bootstrap, Javascript, Gitlab
 <br><br>
 
 ## 👨🏻‍🎓 Education
