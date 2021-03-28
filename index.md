@@ -10,7 +10,7 @@ _Data Scientist (and sometimes a creator_ 🚀 _) based in Munich_ [🍺](https:
 Competent in Machine Learning, ETL, Natural Language Processing, and Data Analysis.
 Strong engineering professional with a Master’s degree focused on AI and Machine
 Learning 🤖. A versatile, determined, and easy-going person who loves learning 📖🧠 and enjoys
-working with others 🥳. 
+working with others 🥰. 
 
 ## 👨🏻‍💻 Technical Experience
 
