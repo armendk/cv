@@ -1,6 +1,6 @@
 # Armend Kabashi
 
-_Data Scientist (and sometimes a creator) based in Munich, Germany_ <br>
+_Data Scientist (and sometimes a creator_ :crystal_ball:_) based in Munich, Germany_ [:de:](https://en.wikipedia.org/wiki/Germany)<br>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/armendkabashi/) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/armendk/) [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/armendk/)
 
@@ -22,4 +22,5 @@ A multilingual etymology dictionary that maps words to concepts and discovers cr
   - Fashioned and built a simple web app to visualise the search results and enable users to interact with the data
   - **_Technologies used:_** Python, PySpark, pandas, scikit-earn, NumPy, NetworkX, Spacy, MySQL, ElasticSearch, MongoDB, FastAPI, Docker, AWS (EC2, RDS, S3, Lambda), Vercel, Bootstrap, Javascript, Gitlab.
 <br><br>
+
 
