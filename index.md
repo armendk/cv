@@ -27,6 +27,6 @@ A multilingual etymology dictionary that maps words to concepts and discovers cr
 
 **Master of Science in Computer Science** _focused on AI and Machine Learning_
 
-<img src="https://www.pikpng.com/pngl/m/597-5977915_sapienza-university-of-rome-logo-clipart.png" width="16"> [**Sapienza Università di Roma**](https://www.diag.uniroma1.it/) - Rome, Italy _(Nov 2012 - Jan 2015)_
+<img src="https://www.pikpng.com/pngl/m/597-5977915_sapienza-university-of-rome-logo-clipart.png" width="16"> [**Sapienza - Università di Roma**](https://www.diag.uniroma1.it/) - Rome, Italy _(Nov 2012 - Jan 2015)_
 
 
