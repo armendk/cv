@@ -16,7 +16,7 @@ working with others 🥰.
 
 **Creator/Data Scientist** @ [Rabbitique](https://www.rabbitique.com/) _(Sep 2020 - Present)_ - Munich, Germany<br>
 A multilingual etymology dictionary 🌐 that maps words to concepts and discovers cross-language cognates.
-  - Created procedures to extract, parse, and structure Wiktionary dump unstructured data consisting of ~7M word titles from >4K languages
+  - Created procedures to extract, parse, and structure Wiktionary dump's unstructured data consisting of ~7M word titles from >4K languages
   - Developed a search algorithm to build relative word graphs and reconstruct the word's origin path
   - Utilised statistical analysis and graphs to achieve a mapping between words and primitive concepts
   - Developed an API to expose the search algorithm to external applications
