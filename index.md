@@ -5,7 +5,7 @@ _Data Scientist (and sometimes a creator_ 🚀 _) based in wonderful Munich_ [�
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/armendkabashi/) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/armendk/) [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/armendk/)
 
-## About me
+## 🐏 🦧 🐒 About me
 ❤️‍🔥 Passionate Data Scientist with 5 years of experience in driving business growth 📈 utilising advanced data analysis and machine learning techniques. Competent in Machine Learning, ETL, and Natural Language Processing. Strong engineering professional with a Master’s degree focused on AI and Machine Learning 🤖. A versatile, determined, and easy-going 👋 person who loves learning 📖🧠 and enjoys
 working with others 🥰. 
 
