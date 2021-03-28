@@ -9,7 +9,7 @@ _Data Scientist (and sometimes a creator_ 🚀 _) based in wonderful Munich_ [�
 ❤️‍🔥 Passionate Data Scientist with 5 years of experience in driving business growth 📈 utilising advanced data analysis and machine learning techniques. Competent in Machine Learning, ETL, and Natural Language Processing. Strong engineering professional with a Master’s degree focused on AI and Machine Learning 🤖. A versatile, determined, and easy-going 👋 person who loves learning 📖🧠 and enjoys
 working with others 🥰. 
 
-## Skills
+## 🧰 Skills
 > **[Python](https://www.python.org/)**: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [Apache Spark](https://spark.apache.org/), [Gensim](https://radimrehurek.com/gensim/), [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), [NetworkX](https://networkx.org/), [Flask](https://flask.palletsprojects.com/en/1.1.x/), [FastAPI](https://fastapi.tiangolo.com/) <br>
 > **SQL**: [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), **NoSQL**: [Elasticsearch](https://www.elastic.co/)<br>
 > **Containers & Serverless**:  [Docker](https://www.docker.com/), [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), [Heroku](https://www.heroku.com/)<br>
