@@ -10,10 +10,10 @@ _Data Scientist (and sometimes a creator_ 🚀 _) based in wonderful Munich_ [�
 working with others 🥰. 
 
 ## Skills
-- **[Python](https://www.python.org/)**: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [Apache Spark](https://spark.apache.org/), [Gensim](https://radimrehurek.com/gensim/), [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), [Flask](https://flask.palletsprojects.com/en/1.1.x/), [FastAPI](https://fastapi.tiangolo.com/)
-- **SQL**: [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), **NoSQL**: [Elasticsearch](https://www.elastic.co/)
-- **Containers & Serverless**: [Docker](https://www.docker.com/), [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), [Heroku](https://www.heroku.com/)
-- **Collaboration**: [Github](https://github.com/), [Gitlab](https://gitlab.com/), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence)
+> **[Python](https://www.python.org/)**: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [Apache Spark](https://spark.apache.org/), [Gensim](https://radimrehurek.com/gensim/), [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), [Flask](https://flask.palletsprojects.com/en/1.1.x/), [FastAPI](https://fastapi.tiangolo.com/)
+> **SQL**: [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), **NoSQL**: [Elasticsearch](https://www.elastic.co/)
+> **Containers & Serverless**:  [Docker](https://www.docker.com/), [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), [Heroku](https://www.heroku.com/)
+> **Collaboration**: [Github](https://github.com/), [Gitlab](https://gitlab.com/), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence)
 
 ## 👨🏻‍💻 Technical Experience
 
