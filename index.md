@@ -17,7 +17,18 @@ working with others 🥰.
 
 ## 💻 Technical Experience
 
-**Creator/Data Scientist** @ [Rabbitique](https://www.rabbitique.com/) _(Sep 2020 - Present)_ - Munich, Germany<br>
+**Data Scientist** @ [Dennemeyer Octimine](https://www.octimine.com/) _(May 2016 - Jun 2021)_ - Munich, Germany<br>
+  - As employee #6 was responsible for building and expanding the data infrastructure and processes of the early-stage start-up
+  - Collect data from multiple sources and create a patent data lake
+  - Built the backbone ETL pipeline for processing and aggregating >120 million patent documents, including daily updates procedures, to increase global patent data coverage from 20% to 100%
+  - Developed an end-to-end framework for training, testing, and deployment of topic models to cluster documents and discover technology trends
+  - Trained a word2vec model on a corpus of 1 million patent descriptions and served it as a microservice for synonym suggestion, now an integral feature of the application
+  - Performed massive scale data analysis for creating a clear perspective of the invention landscape to support sales & marketing teams
+  - Researched, analysed, and implemented new technologies in the area of data science and machine learning such as clustering algorithms, word embeddings, Spark, Elasticsearch, and translation engines
+  - Supported tech recruiting and mentored other engineers & business developers on the company’s data ecosystem
+  - **_Tech stack:_** _Python, Spark, Spark NLP, spaCy, nltk, pandas, NumPy, scikit-learn, PostgreSQL, MySQL, MariaDB, Elasticsearch, Docker, Gensim, word2vec, Flask, Gitlab_
+
+**Creator/Data Scientist** @ [Rabbitique](https://www.rabbitique.com/) _(Jan 2019 - Sep 2020)_ - Munich, Germany<br>
 A multilingual etymology dictionary 🌐 that maps words to concepts and discovers cross-language cognates.
   - Created procedures to extract, parse, and structure Wiktionary dump's unstructured data consisting of ~7M  word titles from >4K languages
   - Developed a search algorithm to build relative word graphs and reconstruct the word's origin path
