@@ -22,7 +22,7 @@ working with others 🥰.
   - Collect data from multiple sources and create a patent data lake
   - Built the backbone ETL pipeline for processing and aggregating >120 million patent documents, including daily updates procedures, to increase global patent data coverage from 20% to 100%
   - Developed an end-to-end framework for training, testing, and deployment of topic models to cluster documents and discover technology trends
-  - Trained a word2vec model on a corpus of 1 million patent descriptions and served it as a microservice for synonym suggestion, now an integral feature of the application
+  - Trained a word2vec model on a corpus of 1 million patent descriptions and served it as a microservice for synonym suggestion
   - Performed massive scale data analysis for creating a clear perspective of the invention landscape to support sales & marketing teams
   - Researched, analysed, and implemented new technologies in the area of data science and machine learning such as clustering algorithms, word embeddings, Spark, Elasticsearch, and translation engines
   - Supported tech recruiting and mentored other engineers & business developers on the company’s data ecosystem
