@@ -9,22 +9,21 @@ _Data Scientist (and sometimes a creator_ 🚀 _) based in wonderful Munich_ [�
 💓🔥 Passionate Data Scientist with 7 years of experience driving business growth 📈 utilising advanced data analysis and machine learning techniques. Experienced in end-to-end data science solutions including streamlining data analytics pipelines, feature engineering, data exploration, modelling, microservices and dashboarding utilising Python data science and web services ecosystem, AWS Analytics and ML, Spark, and Docker containers. A versatile, determined, and easy-going 👋 person who loves learning 📖🧠 and enjoys working with others 🥰.
 
 ## 🔮 Skills
-> 🍄 **[Python](https://www.python.org/)**: [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [Apache Spark](https://spark.apache.org/), [Gensim](https://radimrehurek.com/gensim/), [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), [NetworkX](https://networkx.org/), [Flask](https://flask.palletsprojects.com/en/1.1.x/), [FastAPI](https://fastapi.tiangolo.com/) <br>
-> 🍄 **SQL**: [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/), [PostgreSQL](https://www.postgresql.org/), **NoSQL**: [Elasticsearch](https://www.elastic.co/)<br>
-> 🍄 **Containers & Serverless**:  [Docker](https://www.docker.com/)<br>
+> 🍄 **Python** & **SQL** for Data Science & Engineering (frameworks such as pandas, scikit-learn, PySpark, Postgres, DuckDB) <br>
+> 🍄 **Containers & Serverless**: AWS Data Analytics services (such as Lambda, Glue, Athena, SageMaker) & Docker<br>
 
 ## 💻 Technical Experience
 
 **Data Scientist** @ [Dennemeyer Octimine](https://www.octimine.com/) _(May 2016 - Jun 2021)_ - Munich, Germany<br>
-  - As employee #6 was responsible for building and expanding the data infrastructure and processes of the early-stage start-up
+  - Employee #6 was responsible for building and expanding the data infrastructure and processes of the early-stage start-up
   - Collect data from multiple sources and create a patent data lake
   - Built the backbone ETL pipeline for processing and aggregating >120 million patent documents, including daily updates procedures, to increase global patent data coverage from 20% to 100%
   - Developed an end-to-end framework for training, testing, and deployment of topic models to cluster documents and discover technology trends
   - Trained a word2vec model on a corpus of 1 million patent descriptions and served it as a microservice for synonym suggestion
-  - Performed massive scale data analysis to create a clear perspective of the invention landscape to support sales & marketing teams
+  - Performed massive-scale data analysis to create a clear perspective of the invention landscape to support sales & marketing teams
   - Researched, analysed, and implemented new technologies in the area of data science and machine learning such as clustering algorithms, word embeddings, Spark, Elasticsearch, and translation engines
   - Supported tech recruiting and mentored other engineers & business developers on the company’s data ecosystem
-  - **_Tech stack:_** _Python, Spark, Spark NLP, spaCy, nltk, pandas, NumPy, scikit-learn, PostgreSQL, MySQL, MariaDB, Elasticsearch, Docker, Gensim, word2vec, Flask, Gitlab_
+  - **_Tech stack:_** _Python, Spark, spaCy, nltk, pandas, NumPy, scikit-learn, PostgreSQL, MySQL, Elasticsearch, Docker_
 
 **Creator/Data Scientist** @ [Rabbitique](https://www.rabbitique.com/) _(Jan 2019 - Sep 2020)_ - Munich, Germany<br>
 A multilingual etymology dictionary 🌐 that maps words to concepts and discovers cross-language cognates.
@@ -33,7 +32,7 @@ A multilingual etymology dictionary 🌐 that maps words to concepts and discove
   - Utilised statistical analysis and graphs to achieve a mapping between words and primitive concepts
   - Developed an API to expose the search algorithm to external applications
   - Fashioned and built a simple web app to visualise the search results and enable users to interact with the data
-  - **_Tech stack:_** _Python, Spark, pandas, scikit-earn, NumPy, NetworkX, spaCy, MySQL, FastAPI, Docker, Vercel, Bootstrap, Gitlab_
+  - **_Tech stack:_** _Python, DuckDB, pandas, scikit-earn, NetworkX, FastAPI, Docker_
 <br><br>
 
 ## 🎓 Education
